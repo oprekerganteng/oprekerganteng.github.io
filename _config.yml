@@ -4,6 +4,7 @@ email: oprekerganteng@gmail.com
 description: "Opreker tapi Ganteng"
 baseurl: ""
 url: "http://ganteng.belajaropensource.or.id"
+avatar: "/assets/images/user.png"
 
 sass:
  sass_dir: _sass
