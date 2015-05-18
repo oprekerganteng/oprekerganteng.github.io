@@ -1,0 +1,16 @@
+# Site settings
+title: "Opreker Ganteng"
+email: oprekerganteng@gmail.com
+description: "Opreker tapi Ganteng"
+baseurl: ""
+url: "http://ganteng.belajaropensource.or.id"
+
+sass:
+ sass_dir: _sass
+ style: compressed
+paginate: 5
+paginate_path: "blog/page:num/"
+
+# Build settings
+markdown: kramdown
+

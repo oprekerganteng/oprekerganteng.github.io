@@ -1,0 +1,99 @@
+// Our variables
+// $base-font-family: "Source Sans Pro",Helvetica,Arial,sans-serif;
+$font-path: '/assets/fonts/roboto/';
+$base-font-family: "Roboto", Helvetica,Arial,sans-serif;
+$base-font-size:   15px;
+$small-font-size:  $base-font-size - 0.5;
+$base-line-height: 1.5;
+
+$primary-text-color:         rgba(0, 0, 0, 0.87) !default;
+$secondary-text-color:       rgba(0, 0, 0, 0.54) !default;
+$hints-text-color:           rgba(0, 0, 0, 0.26) !default;
+
+$primary-color:              rgba(63, 81, 181, 1) !default;
+$primary-dark-color:         rgba(48, 63, 159, 1) !default;
+$primary-dark-color-darker:  rgba(48, 63, 159, 0.5) !default;
+
+$accent-color:               rgba(255, 128, 171, 1) !default;
+$accent-dark-color:          rgba(245, 39, 87, 1) !default;
+
+$light-color:                rgba(255, 255, 255, 1) !default;
+$secondary-light-color:      rgba(255, 255, 255, 0.7) !default;
+$hints-light-color:          rgba(255, 255, 255, 0.3) !default;
+
+
+$h1-font-size: $base-font-size * 7;
+$h2-font-size: $base-font-size * 3.5;
+$h3-font-size: $base-font-size * 2.83;
+$h4-font-size: $base-font-size * 2.16;
+$h5-font-size: $base-font-size * 1.5;
+$h6-font-size: $base-font-size * 1.25;
+
+$small:              600px;
+$small-up:           601px;
+$medium:             992px;
+$medium-up:          993px;
+$very-small:         480px;
+$very-small-up:      481px;
+$large:              1200px;
+$large-up:           1201px;
+$very-large:         1300px;
+$very-large-up:      1301px;
+
+$sidebar-width:      340px;
+
+$img-medium-size:         40px;
+
+$range : $very-large - $very-small !default;
+
+$intervals: 20 !default;
+$interval-size: $range / $intervals !default;
+
+$button-bg-color-disabled: #DFDFDF !default;
+$button-color: $primary-color !default;
+$button-color-disabled: #9F9F9F !default;
+$button-color-flat: #343434 !default;
+$button-color-raised: #FFF !default;
+$button-floating-size: 37px !default;
+$button-height: 36px !default;
+$button-font-size-shared: 1.3rem !default;
+$button-line-height: 36px !default;
+
+
+/* $heading-font-family: 'Roboto', serif;
+
+$spacing-unit:     30px;
+
+
+$text-color:       rgba(0, 0, 0, 0.87) !default;
+$text-color-light: lighten($text-color, 40%);
+$text-color-dark:  darken($text-color, 25%);
+
+$heading-color: #5a6b77;
+$paragraf-color: #485864;
+$link-inactive-color: #8f8f8f;
+$link-active-color: #5298fc;
+$white-color:      #ffffff;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:      #C7C7C7;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$primary-color:	   #384452;
+$primary-color-light: lighten($primary-color, 40%);
+$primary-color-dark:  darken($primary-color, 25%);
+
+$secondary-color:	   #00B3FE;
+$secondary-color-light: lighten($secondary-color, 40%);
+$secondary-color-dark:  darken($secondary-color, 25%);
+$secondary-text-color: #ffffff;
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+$on-phone:				 480px;
+ */
